@@ -12,7 +12,6 @@
     "@tabler/icons-vue": "^3.19.0",
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.1.1",
-    "gsap": "^3.12.5",
     "lucide-vue-next": "^0.447.0",
     "radix-vue": "^1.9.6",
     "tailwind-merge": "^2.5.3",
@@ -23,6 +22,7 @@
     "@types/node": "^22.7.4",
     "@vitejs/plugin-vue": "^5.0.5",
     "autoprefixer": "^10.4.20",
+    "gsap": "^3.12.5",
     "sass-embedded": "^1.79.4",
     "tailwindcss": "^3.4.13",
     "vite": "^5.3.1"

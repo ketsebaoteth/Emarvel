@@ -4,12 +4,12 @@ import { IconChevronRight, IconChevronLeft } from '@tabler/icons-vue';
 
 <template>
     <div class="slider w-screen h-[400px] px-5 flex place-items-center">
-        <div class="toleft">
+        <div class="toleft cursor-pointer">
             <IconChevronLeft stroke={2} />
         </div>
         <div class="bannerimg w-full h-[332px] bg-black rounded-2xl">
         </div>
-        <div class="toright">
+        <div class="toright cursor-pointer">
             <IconChevronRight stroke={2} />
         </div>
     </div>

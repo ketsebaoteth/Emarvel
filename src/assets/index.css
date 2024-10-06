@@ -67,7 +67,8 @@
     --destructive-foreground: 210 40% 98%;
  
     --ring: 212.7 26.8% 83.9%;
-    --page-background: linear-gradient(153deg, rgba(220,220,220,1) 0%, rgba(117,155,249,1) 100%);
+    --page-background: linear-gradient(153deg, rgba(0,0,0,1) 4%, rgba(117,155,249,1) 100%); 
+    --text-color: #ffffff;
   }
 }
  
