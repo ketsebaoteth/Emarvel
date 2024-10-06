@@ -22,12 +22,19 @@ module.exports = {
       },
     },
     extend: {
+      fontFamily: {
+        main: ["Inter"],
+      },
+      backgroundImage:{
+        pageBackground: "var(--page-background)",
+      },
       colors: {
         border: "hsl(var(--border))",
         input: "hsl(var(--input))",
         ring: "hsl(var(--ring))",
         background: "hsl(var(--background))",
         foreground: "hsl(var(--foreground))",
+        textmain: "var(--text-color)",
         primary: {
           DEFAULT: "hsl(var(--primary))",
           foreground: "hsl(var(--primary-foreground))",
